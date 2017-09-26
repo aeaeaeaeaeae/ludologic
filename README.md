@@ -1,4 +1,7 @@
 # ludologic
+
+![image](https://raw.githubusercontent.com/aeaeaeaeaeae/ludologic/master/QmU5YFBd1oyVU9E4weZsj5iMPL3m7HCz7UnocwRZNdeCJU.jpg)
+
 | IPFS                                                                                          | Owner        |
 |:----------------------------------------------------------------------------------------------|:-------------|
 | [QmNSnokcntPSiC6gd1PsVpGGzFKxjW4VSPNB6asZiEX7G1](https://www.youtube.com/watch?v=oE9MN0fmEL0) | S.K.RUUD &AE |
