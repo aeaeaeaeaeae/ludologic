@@ -1,9 +1,6 @@
 > [&ae](http://www.aeaeaeae.io/) and [Stian Korntved Ruud](http://www.stiankorntvedruud.com/).
 
 # ludologic
-Ludological is a code-machine-complex, scoping out the promise of a next-tech increment, where manufacturing is autonomous and the web immutable. From a patchwork of open-source and mechatronics it stages a value-chain stuck in the perpetual production of a terminal-spectacle.
-
-The digital layer hosts a bot-net of go-gaming AIs mutually constrained by a forced consensus and a self-certifying smart-contract. Sustained by a private chain under the motto autonomous and "code that can't shut down", the network generates a stream of surplus results that trickles down to become a binary decision model animating the material termination of some piece of wood.
 
 ```
 pachi-go, docker, android, nodejs, solidity, ethereum, ipfs, linux, python, modbus rtu, master/slave, smart contracts, manifold hypothesis, local optimal, gradient decent, terminal transformations, structural indifference, illicit manufacturing, nemocentrism, hyper-optimisation, entrenched cognitive-maps, inhumane infrastructure, bot-nets, deep industry, carbon cycles, P2P economies, alternative intelligence, material traumas, brute force mechatronics, value-chain ecologies, web 3.0, industry 4.0, “lights-out” operation, machine-2-machine, disposable matter.
