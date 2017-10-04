@@ -21,6 +21,8 @@ pachi-go, docker, android, nodejs, solidity, ethereum, ipfs, linux, python, modb
 ## ludologic
 
 ![Gaze](https://raw.githubusercontent.com/aeaeaeaeaeae/ludologic/master/QmdnLRhQEm5NbfhwMDA7tcHsqMhMUcPiJeJ6a6zsVpUw4j.jpg)
+![Gaze](https://raw.githubusercontent.com/aeaeaeaeaeae/ludologic/master/QmVwyQzeYPQttcq9fTo4hML4VScoRtRfxTxjfJjazdzFQA.jpg)
+![Gaze](https://raw.githubusercontent.com/aeaeaeaeaeae/ludologic/master/QmfAbCpiaQnRJkcYULWhmkgrVn9s7mq5MP3GPCtC2iqG2B.jpg)
 
 ## ethereum contract
 
