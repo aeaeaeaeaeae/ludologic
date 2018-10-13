@@ -7,7 +7,6 @@ pachi-go, docker, android, nodejs, solidity, ethereum, ipfs, linux, python, modb
 ```
 
 ![Gaze](https://raw.githubusercontent.com/aeaeaeaeaeae/ludologic/master/QmU5YFBd1oyVU9E4weZsj5iMPL3m7HCz7UnocwRZNdeCJU.jpg)
-![Gaze](https://raw.githubusercontent.com/aeaeaeaeaeae/ludologic/master/QmaPZiYtaQA6p9NkmqzZKAgxLhSh4PqZvngYuYgyt5fBU7.jpg)
 
 | IPFS                                                                                          | Owner        |
 |:----------------------------------------------------------------------------------------------|:-------------|
@@ -17,6 +16,8 @@ pachi-go, docker, android, nodejs, solidity, ethereum, ipfs, linux, python, modb
 | [QmX8U3iJVs4SscqfBCqZyhUGS1cqkTRnYbVtzxaTDWqbpA](https://www.youtube.com/watch?v=A7h2kmbkHGc) | S.K.RUUD &AE |
 | [QmXou6heBp7AF4UfS1tmKAw5kJV7S6rebYGzkamFP6NBYP](https://www.youtube.com/watch?v=L_sAyMGVf38) | S.K.RUUD &AE |
 | [QmYAU7m4T4Hs8RYTXBsBP2fgCjF7s2PCV1EwyZ4Bv3qyYq](https://www.youtube.com/watch?v=UpCBCYKcs64) | S.K.RUUD &AE |
+
+![Gaze](https://raw.githubusercontent.com/aeaeaeaeaeae/ludologic/master/QmaPZiYtaQA6p9NkmqzZKAgxLhSh4PqZvngYuYgyt5fBU7.jpg)
 
 ## ludologic
 
